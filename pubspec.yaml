@@ -18,7 +18,7 @@ dependencies:
     sdk: flutter
   meta: ^1.1.8
   intl: ">=0.15.1 <0.17.0"
-  platform: ">=2.0.0 <4.0.0"
+  platform: ^3.0.0-nullsafety.2
 
 dev_dependencies:
   flutter_test:
